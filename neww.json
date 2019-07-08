@@ -1,0 +1,11 @@
+{
+	"category_data": [{
+			"name": "Fruits",
+			"list": ["Apple", "Mango", "Banana"]
+		},
+		{
+			"name": "Colors",
+			"list": ["Black", "White", "Green"]
+		}
+	]
+}
